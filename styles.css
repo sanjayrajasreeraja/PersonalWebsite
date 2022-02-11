@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Josefin+Sans:wght@500&display=swap');
+
+
+#navigator{
+    background-color: #00223E;
+    padding-bottom: 0;
+    padding-top: 0;
+}
+
+.img-sizer{
+    width: 220px;
+    height: 210px;
+    padding-left: 90px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#we1{
+    background-color: #00223E;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-bottom: 30px;
+}
+
+#we2{
+    background-color: #00223E;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+#intro{
+    margin-top: 5%;
+    padding-top: 80px;
+}
+
+#img-padding{
+    padding-left: 90px !important;
+}
+
+.bg{
+    background-color:#00223E;
+    
+}
+.navbar-brand{
+    font-family: 'Bebas Neue', cursive;
+    padding-left: 30px !important;
+    color: #FFA17F !important;
+    font-size: 50px !important;
+}
+
+.nav-link{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+    color: whitesmoke !important;
+    padding-left: 50px !important;
+}
+
+.about-para1{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 25px;
+    padding-top: 50px;
+    color: white;
+}
+
+.about-para2{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 25px;
+    padding-bottom: 30px;
+    color: white;
+}
+
+.about-para3{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 25px;
+    padding-top: 90px;
+    padding-bottom: 30px;
+    color: white;
+}
+
+.front-head{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 80px ;
+    text-align: center;
+    color: #FFA17F !important;
+}
+
+#but-cus{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+    background-color: #FFA17F;
+    color: #00223E;
+    border-color: #FFA17F;
+    margin-top: 15px;
+    margin-bottom: 60px !important;
+}
+
+.front-body{
+    font-family: 'Josefin Sans', sans-serif; 
+    text-align: center;
+    color: whitesmoke !important;
+}
+
+#icon1{
+    padding-left: 20px;
+    color: #FFA17F !important;
+}
+
+#headerin{
+    padding-top: 70px;
+    padding-bottom: 20px;
+}
+
+#head-col{
+    padding-top: 120px; 
+    padding-bottom:40px !important;
+      
+}
+
+#bg2{
+    background-color: #FFA17F;
+    padding-bottom: 40px;
+}
+
+.about-head{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 80px;
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 20px;
+    color: #00223E !important;
+}
+
+.about-para{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 40px;
+    padding-top: 50px;
+    padding-bottom: 40px;
+    color: black;
+}
+
+.card-img-top {
+    width: 90%;
+    height: 300px;
+    object-fit: cover;
+}
+
+.card{
+    background-color:whitesmoke !important;
+    margin-bottom: 20px;
+}
+
+.row_align{
+    margin-left: 100px;
+}
+
+.form-label{
+    font-family: 'Josefin Sans', sans-serif;
+    color: #FFA17F;
+    font-size: 25px;
+
+}
