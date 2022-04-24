@@ -34,9 +34,10 @@
 }
 
 #img-padding{
-    padding-left: 90px !important;
-    max-width: 75% !important;
-    max-height: 75% !important;
+    padding-top:90px !important;
+    padding-left: 70px !important;
+    max-width: 80% !important;
+    max-height: 80% !important;
 }
 
 .bg{
