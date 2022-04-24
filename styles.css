@@ -34,7 +34,8 @@
 }
 
 #img-padding{
-    padding-top:90px !important;
+    border-radius: 30px !important;
+    padding-bottom:90px !important;
     padding-left: 70px !important;
     max-width: 500px !important;
     max-height: 500px !important;
